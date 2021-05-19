@@ -11,12 +11,6 @@ import java.text.NumberFormat
 import javax.sql.DataSource
 import kotlin.math.ceil
 
-fun main() {
-    val numbers = mutableListOf(1, 2, 3)
-    numbers.add(4)
-    println(numbers.contains(4))
-}
-
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding

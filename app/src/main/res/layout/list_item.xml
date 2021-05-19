@@ -3,7 +3,7 @@
     android:id="@+id/item_title"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:textSize="35sp"
-    android:text="Hello">
+    android:paddingBottom="8dp"
+    android:textSize="30sp">
 
 </TextView>
